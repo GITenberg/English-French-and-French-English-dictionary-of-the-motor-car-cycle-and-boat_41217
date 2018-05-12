@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41042'
     url: http://www.gutenberg.org/2009/agents/41042
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41217#English-French-and-French-English-dictionary-of-the-motor-car-cycle-and-boat
 gutenberg_issued: '2012-10-29'
 gutenberg_type: Text
 identifiers:
